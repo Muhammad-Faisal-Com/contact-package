@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Contact\Mail;
+namespace ContactTest\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

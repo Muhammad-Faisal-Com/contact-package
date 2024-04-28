@@ -1,13 +1,13 @@
 <?php
 
-namespace Test\Contact\Http\Controllers;
+namespace ContactTest\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Test\Contact\Mail\ContactMailable;
-use Test\Contact\Model\Contact;
+use ContactTest\Contact\Mail\ContactMailable;
+use ContactTest\Contact\Model\Contact;
 
 class ContactController extends Controller
 {
