@@ -1,0 +1,19 @@
+{
+    "name": "test/contact",
+    "description": "This is a test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad-Faisal-Com",
+            "email": "mfaisal@computan.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
